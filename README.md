@@ -1,2 +1,6 @@
 # hello_world
-This is my first repository, just to learn
+
+As I said before, I'm a Physics and Chemistry Teacher and 
+I'm very interested in learning programming.
+
+Let's see what happens next!
